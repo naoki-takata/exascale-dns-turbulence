@@ -50,7 +50,7 @@ MIT License (open-source, freely modifiable)
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/exascale-dns-turbulence.git
+git clone https://github.com/naoki-takata/exascale-dns-turbulence.git
 cd exascale-dns-turbulence
 ```
 
